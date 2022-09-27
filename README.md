@@ -20,12 +20,18 @@
 
 * Dictionaries: https://learnpython.org/en/Dictionaries
 
+* Modules gebruiken: https://www.hackinscience.org/exercises/my-date
+
 
 ## Tools
 * Collaborative python IDEs: 
     * https://codecollab.io/@latlondev/BasicPython
     * https://replit.com/join/mgjvvgnpnw-latlondev
-* github: https://github.com/latlon-dev/Cursus_Python_Basis
+
+## Resources
+* Deze lijst van oefeningen: https://github.com/latlon-dev/Cursus_Python_Basis
+* Presentatie: https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag1.ipynb
+* Pyhton documentatie: https://docs.python.org/3/
 
 ## Extra Oefeningen
 * Strings:
