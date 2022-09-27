@@ -22,7 +22,9 @@
 
 
 ## Tools
-* Collaborative python IDE: https://codecollab.io/@latlondev/BasicPython
+* Collaborative python IDEs: 
+    * https://codecollab.io/@latlondev/BasicPython
+    * https://replit.com/join/mgjvvgnpnw-latlondev
 * github: https://github.com/latlon-dev/Cursus_Python_Basis
 
 ## Extra Oefeningen
