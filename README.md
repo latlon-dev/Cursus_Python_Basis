@@ -16,17 +16,26 @@
 
 * Lists: https://futurecoder.io/course/#IntroducingLists 
 
+## Oefeningen dag Dag 2
+
 * Functies schrijven: https://futurecoder.io/course/#DefiningFunctions
 
 * Dictionaries: https://learnpython.org/en/Dictionaries
 
 * Modules gebruiken: https://www.hackinscience.org/exercises/my-date
 
+* ...
+
 
 ## Tools
 * Collaborative python IDEs: 
     * https://codecollab.io/@latlondev/BasicPython
     * https://replit.com/join/mgjvvgnpnw-latlondev
+* Python IDEs
+   * PyCharm
+   * PyScripter
+   * [VSCode](https://code.visualstudio.com/) ([Python Extension](https://code.visualstudio.com/docs/languages/python))
+* [Jupyter Notebooks](https://jupyter.org)
 
 ## Resources
 * Deze lijst van oefeningen: https://github.com/latlon-dev/Cursus_Python_Basis
