@@ -20,12 +20,7 @@
 
 * Functies schrijven: https://futurecoder.io/course/#DefiningFunctions
 
-* Dictionaries: https://learnpython.org/en/Dictionaries
-
-* Modules gebruiken: https://www.hackinscience.org/exercises/my-date
-
-* ...
-
+* IDEs, modules, dictionaries: [zie slides](https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag2.ipynb)
 
 ## Tools
 * Collaborative python IDEs: 
@@ -39,7 +34,9 @@
 
 ## Resources
 * Deze lijst van oefeningen: https://github.com/latlon-dev/Cursus_Python_Basis
-* Presentatie: https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag1.ipynb
+* Presentaties
+   * dag 1 : https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag1.ipynb
+   * dag 2 : https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag2.ipynb
 * Pyhton documentatie: https://docs.python.org/3/
 
 ## Extra Oefeningen
