@@ -35,8 +35,8 @@
 ## Resources
 * Deze lijst van oefeningen: https://github.com/latlon-dev/Cursus_Python_Basis
 * Presentaties
-   * dag 1 : https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag1.ipynb
-   * dag 2 : https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag2.ipynb
+   * [dag 1](https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag1.ipynb)
+   * [dag 2](https://github.com/latlon-dev/Cursus_Python_Basis/blob/main/Python_basis_dag2.ipynb), [live versie](https://mybinder.org/v2/gh/latlon-dev/Cursus_Python_Basis/main?labpath=Python_basis_dag2.ipynb)
 * Pyhton documentatie: https://docs.python.org/3/
 
 ## Extra Oefeningen
