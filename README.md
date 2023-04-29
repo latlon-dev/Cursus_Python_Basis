@@ -4,7 +4,7 @@
 
 -   Console: https://futurecoder.io/course/#IntroducingTheShell
 
--   Variablen: https://futurecoder.io/course/#IntroducingVariables
+-   Variabelen: https://futurecoder.io/course/#IntroducingVariables
 
 -   Types: https://cscircles.cemc.uwaterloo.ca/4-types-nl/
 
@@ -31,7 +31,9 @@
     -   PyCharm
     -   PyScripter
     -   [VSCode](https://code.visualstudio.com/) ([Python Extension](https://code.visualstudio.com/docs/languages/python))
--   [Jupyter Notebooks](https://jupyter.org)
+-   [Jupyter Notebooks](https://jupyter.org):
+    -   https://www.kaggle.com/code
+    -   https://colab.research.google.com/
 
 ## Resources
 

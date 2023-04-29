@@ -1,0 +1,54 @@
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Source Sans Pro', Helvetica, sans-serif !important;
+  font-weight: 700 !important;
+  text-transform: uppercase !important;
+}
+
+h1 {
+  font-size: 2.6rem !important;
+}
+
+h2 {
+  font-size: 2rem !important;
+}
+
+.reveal pre {
+  font-size: 18px !important;
+  margin: 0 !important;
+  box-shadow: none !important;
+  font-family: 'Ubuntu Mono';
+}
+
+.highlight {
+  margin: 0 !important;
+}
+
+div.prompt,
+div.prompt_container,
+div.out_prompt_overlay,
+div.output_prompt,
+div.jp-InputPrompt,
+div.jp-OutputPrompt {
+  display: none !important;
+  min-width: none !important;
+  color: lightgrey !important;
+  /*font-size: 12px !important;*/
+}
+
+.output,
+div.jp-OutputArea-output {
+  background-color: #bbb;
+  /*border: 1px solid #cfcfcf !important;*/
+  border-radius: 7px !important;
+  animation: fadeIn 1s !important;
+  font-family: 'Ubuntu Mono';
+}
+
+div.jp-InputArea-editor {
+  border-radius: 7px !important;
+  border: none !important;
+  font-family: 'Ubuntu Mono';
+}
