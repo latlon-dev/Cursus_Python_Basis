@@ -6,3 +6,8 @@ def hello(name):
 
 def goodbye(name):
     return "Goodbye " + name + "."
+
+
+if __name__ == "__main__":
+    print(hello("jo"))
+
